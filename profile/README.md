@@ -25,7 +25,15 @@ Website: https://monsterlab.nd.edu
 
 ## Self-driving labs
 
-Robotic and agentic platforms for autonomous materials experiments. Code from our recent work (LabApprentice, ProtoAsk-VLA, and the autonomous laboratory platform) will be posted here as papers are published. Undergraduate senior design teams are also building autonomous instruments, including an automated differential scanning calorimetry station and a liquid mixing and heating system for ionic liquids.
+Robotic and agentic platforms for autonomous materials experiments.
+
+| Project | What it does | Links |
+|---|---|---|
+| Frugal-twin SDL for thermoresponsive polymers | Low-cost self-driving lab that mixes, heats, and measures, and uses Bayesian optimization to tune the lower critical solution temperature of PNIPAM | [Paper (*Adv. Intell. Discov.*, 2026)](https://doi.org/10.1002/aidi.202500177) · [arXiv](https://arxiv.org/abs/2509.05351) · [Code](https://github.com/An-xu/SDL_LCST_OP) |
+| LabApprentice | A coding agent drives a robot arm and existing bench instruments, and reuses the tools it writes across wet-lab tasks (CoRL 2026 Late-Breaking Results) | [Project page and experiment videos](https://jill0001.github.io/LabApprentice/) |
+| ProtoAsk-VLA | Protocol-aware robot execution that asks for human help only when a proposed action may violate a lab protocol (IROS 2026 SDL workshop, with the Hou group) | [Project page and videos](https://sites.google.com/view/protoask) |
+
+Undergraduate senior design teams are also building autonomous instruments, including an automated differential scanning calorimetry station and a liquid mixing and heating system for ionic liquids.
 
 ---
 Many repositories are maintained by the students who wrote them; links point to their original repositories.
