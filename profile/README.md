@@ -21,7 +21,7 @@ Website: https://monsterlab.nd.edu
 |---|---|
 | [PiNDiff-CVI](https://github.com/jx-wang-s-group/PiNDiff-CVI) | Probabilistic physics-integrated neural differentiable modeling for chemical vapor infiltration (with the Wang group) |
 | [ai-for-heat-transfer](https://github.com/tengfeiluo/ai-for-heat-transfer) | AI for Heat Transfer community working group |
-| JAX-BTE | Differentiable phonon Boltzmann transport solver for multiscale thermal modeling *(code available on request)* |
+| [JAX-BTE](https://doi.org/10.1038/s41524-025-01635-0) | GPU-accelerated differentiable solver for phonon Boltzmann transport equations ([*npj Comput. Mater.* 11, 129 (2025)](https://doi.org/10.1038/s41524-025-01635-0)) |
 
 ## Self-driving labs
 
